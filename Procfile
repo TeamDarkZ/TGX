@@ -1,1 +1,1 @@
-worker: bash Tgx
+worker: bash tgx
