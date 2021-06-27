@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is SkyHawk USER",
+      "description": "Fill your Full name. By default it is TGX USER",
       "value": "TGX User",
       "required": false
     },
@@ -78,7 +78,7 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
-      "value": "801842409",
+      "value": "",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
