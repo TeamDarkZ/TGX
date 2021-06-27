@@ -1,22 +1,22 @@
 
-[![stars - Tgx Userbot](https://img.shields.io/github/stars/don1900/Tgx?style=social)](https://github.com/don1900/Tgx)
-[![forks - Tgx Userbot](https://img.shields.io/github/forks/don1900/Tgx?style=social)](https://github.com/don1900/Tgx)
-[![GitHub tag](https://img.shields.io/github/tag/don1900/Tgx?include_prereleases=&sort=semver)](https://github.com/don1900/Tgx/releases/)
+[![stars - Tgx Userbot](https://img.shields.io/github/stars/TeamDarkZ/TGX?style=social)](https://github.com/TeamDarkZ/TGX)
+[![forks - Tgx Userbot](https://img.shields.io/github/forks/TeamDarkZ/TGX?style=social)](https://github.com/TeamDarkZ/TGX)
+[![GitHub tag](https://img.shields.io/github/tag/TeamDarkZ/Tgx?include_prereleases=&sort=semver)](https://github.com/TeamDarkZ/TGX/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
-[![issues - Tgx Userbot](https://img.shields.io/github/issues/don1900/Tgx)](https://github.com/don1900/Tgx/issues)
-[![View site-GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://github.com/don1900/Tgx)
+[![issues - Tgx Userbot](https://img.shields.io/github/issues/TeamDarkZ/TGX)](https://github.com/TeamDarkZ/TGX/issues)
+[![View site-GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://github.com/TeamDarkZ/TGX)
 
 
 
-<h1 align="center"> 🇮🇳 Tgx 🇮🇳 </h1>
+<h1 align="center"> 🇮🇳 TGX 🇮🇳 </h1>
 
- - This is a userbot made by Team [Tgx](https://t.me/TgxSupport)for telegram. 
+ - This is a userbot made by Team [TGX](https://t.me/TGXUserbotSupport)for telegram. 
 
- - You can deploy your own [Tgx USERBOT](https://github.com/don1900/Tgx) and use it.
+ - You can deploy your own [Tgx USERBOT](https://github.com/TeamDarkZ/TGX) and use it.
  
  - Make and enjoy your bot
 
-[![Tgx USERBOT](https://telegra.ph/file/375aacd0caf1f95bcc5f1.jpg)](https://t.me/TgxSupport)
+[![Tgx USERBOT](https://telegra.ph/file/ceb34557e0c13c5755756.jpg)](https://t.me/TGXUserbotSupport)
 
 
 <details><summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
@@ -64,16 +64,16 @@
 
 # CREDITS 👨‍🔬
 
-<h2 align="center"> <a href="https://github.com/Harsh-78/Dark-userbot">💥 DARKBOT 💥</a></h2>
+<h2 align="center"> <a href="https://github.com/don1900/SkyHawk">💥 SkyHawk 💥</a></h2>
  
 
 # Official Support
 
-<a href="https://t.me/Tgx_Updates"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TGXUserBot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/TgxSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TGXUserbotSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/TgxSupport)
+[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/TGXUserbotSupport)
 
 <details>
   <summary> <h3>• LICENSE •</h3> </summary>
@@ -82,7 +82,7 @@
 
 Copyright (C) 2021 Team-Tgx
 
-Poject [Personal bot](https://github.com/Furious-xy/personal-userbot) is free software: you can redistribute it and/or modify
+Poject [TgX Bot](https://github.com/TeamDarkZ/TGX) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -95,7 +95,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-Released under [GNU](/LICENSE) by [@Furious-XY](https://github.com/Furious-XY).
+Released under [GNU](/LICENSE) by [Darkz X Skyhawk](https://github.com/TeamDarkZ).
 </details>
 
 <details> <summary> <h3>• Mandatory Vars •</h3> </summary>
