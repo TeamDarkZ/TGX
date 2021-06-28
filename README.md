@@ -47,7 +47,7 @@
   - Generate String session on repl it
    
        
-       [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@don1900/SkyHawk#main.py) 
+       [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@atharvahacker/TGXUserbot) 
         
   - Generate by running code on Termux
        - Install git package
@@ -64,7 +64,7 @@
 
 # CREDITS 👨‍🔬
 
-<h2 align="center"> <a href="https://github.com/don1900/SkyHawk">💥 SkyHawk 💥</a></h2>
+<h2 align="center"> <a href="https://github.com/TeamDarkZ/TGX">💥 TGX 💥</a></h2>
  
 
 # Official Support
